@@ -50,7 +50,7 @@ export default function Header() {
       <div className="bg-primary text-primary-foreground text-center py-2 text-sm">
         <div className="flex items-center justify-center gap-2">
           <Leaf className="h-4 w-4" />
-          <span>Free Same-Day Delivery on orders over $75 • Use code TORONTO15</span>
+          <span>🔥 Hot Deal: Website & Domain For Sale • info@nizarrahme.com</span>
           <Leaf className="h-4 w-4" />
         </div>
       </div>

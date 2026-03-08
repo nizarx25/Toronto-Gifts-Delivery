@@ -195,7 +195,7 @@ export default function Footer() {
               {/* Social Links */}
               <div className="flex items-center gap-4">
                 <a
-                  href="https://www.instagram.com/torontogiftsdelevery"
+                  href="https://www.instagram.com/torontogiftsdelivery"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-cream/80 hover:text-cream transition-colors"
@@ -203,7 +203,7 @@ export default function Footer() {
                   <Instagram className="h-5 w-5" />
                 </a>
                 <a
-                  href="https://www.facebook.com/torontogiftsdelevery"
+                  href="https://www.facebook.com/torontogiftsdelivery"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-cream/80 hover:text-cream transition-colors"
@@ -211,7 +211,7 @@ export default function Footer() {
                   <Facebook className="h-5 w-5" />
                 </a>
                 <a
-                  href="https://x.com/search?q=torontogiftsdelevery"
+                  href="https://x.com/TGiftsDelivery"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-cream/80 hover:text-cream transition-colors"

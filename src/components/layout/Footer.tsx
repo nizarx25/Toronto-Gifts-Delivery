@@ -87,7 +87,7 @@ export default function Footer() {
             <div className="lg:col-span-2">
               <Link href="/" className="flex items-center gap-2 mb-4">
                 <Leaf className="h-8 w-8 text-cream" />
-                <span className="font-bold text-xl font-heading">TorontoGiftsDelivery</span>
+                <span className="font-bold text-xl font-heading">Toronto Gifts Delivery</span>
               </Link>
               <p className="text-cream/80 text-sm mb-6 max-w-md">
                 Handcrafted gifts from real Toronto artisans. Same-day delivery across Toronto & GTA. 
